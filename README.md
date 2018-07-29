@@ -1,4 +1,4 @@
-#Analyzing Stroop Effect
+# Test a Perceptual Phenomenon
 
 by Thomas Tang
 
