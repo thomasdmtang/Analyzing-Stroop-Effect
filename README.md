@@ -19,3 +19,7 @@ How to use descriptive statistics to describe qualities of a sample
 How to set up a hypothesis test, make inferences from a sample, and draw conclusions based on the results
 Why is this important to my career?
 Using statistics to draw valid conclusions about data is an important part of a Data Analyst's work. A strong grasp of statistics will also be necessary in the rest of the Nanodegree program.
+
+Please look at here (http://www.psychology.emory.edu/clinical/bliwise/Tutorials/TOM/meanstests/assump.htm) for a more detailed assumptions for conducting t-test.
+The t-test for dependent means is considered typically "robust" for violations of normal distribution.This means that the assumption can be violated without serious error being introduced into the test in most circumstance.
+However, if we are conducting a one-tailed test and the data are highly skewed, this will cause a lot of error to be introduced into our calculation of difference scores which will bias the results of the test. In this circumstance, a nonparametric test should be used.
